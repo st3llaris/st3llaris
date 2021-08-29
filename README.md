@@ -6,6 +6,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=st3llaris&show_icons=true&locale=en&theme=radical" alt="st3llaris" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=st3llaris&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st3llaris&theme=radical" alt="st3llaris" /></p>
