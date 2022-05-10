@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ale (also known as Vitinho) </h1>
-<h3 align="center">A SRE engineer passionate about DevOps, DevSecOps, Ruby and Crystal 🚀 </h3>
+<h3 align="center">A software engineer passionate about DevOps, DevSecOps, Ruby and Crystal 🚀 </h3>
 
 <p align="center">
   <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st3llaris&theme=tokyonight" alt="st3llaris" />
