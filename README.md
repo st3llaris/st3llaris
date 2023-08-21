@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ale (also known as Vitinho) </h1>
-<h3 align="center">A software engineer passionate about DevOps, DevSecOps, Ruby and Crystal 🚀 </h3>
+<h1 align="center">👋 Hello there! I'm Alessandro </h1>
+<h3 align="center">A dynamic and innovative software developer with a passion for crafting elegant solutions through code. </h3>
 
 <p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st3llaris&theme=tokyonight" alt="st3llaris" />
+  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=st3llaris&theme=tokyonight-duo&border_radius=10&mode=weekly" alt="st3llaris" />
   <br/><br/>
 </p>
-
+ 
 <div>
+  <p>Check out some technologies I use:</p>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
@@ -23,7 +24,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
-
-<p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api/?username=st3llaris&count_private=true&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&custom_title=My Stats" alt="st3llaris" />
-</p>
