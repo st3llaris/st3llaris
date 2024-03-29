@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Alessandro </h1>
-<h3 align="center">A dynamic and innovative software developer with a passion for crafting elegant solutions through code. </h3>
+<h3 align="center">A dynamic and innovative software engineer that loves to craft solutions using code. </h3>
 
 <p align="center">
   <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=st3llaris&theme=tokyonight-duo&border_radius=10&mode=weekly" alt="st3llaris" />
